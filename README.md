@@ -1,3 +1,5 @@
+Fork of Andrej Karpathy's "Neural Networks: Zero to Hero" course. Used french firstname file as input data (https://www.insee.fr/fr/statistiques/2540004?sommaire=4767262#consulter).
+
 
 ## Neural Networks: Zero to Hero
 
